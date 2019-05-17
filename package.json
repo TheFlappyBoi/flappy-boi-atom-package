@@ -1,10 +1,9 @@
 {
   "name": "flappy-boi",
   "main": "./lib/flappy-boi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A very flappy package from a very flappy boi",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "flappy-boi:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
