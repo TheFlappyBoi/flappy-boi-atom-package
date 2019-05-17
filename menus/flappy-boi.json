@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle flappy-boi",
+        "command": "flappy-boi:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "flappy-boi",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "flappy-boi:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
